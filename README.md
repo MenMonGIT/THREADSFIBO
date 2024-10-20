@@ -23,4 +23,3 @@ Este código se deriva de los siguientes sitios:
 - [Python Multiprocessing Example](https://www.digitalocean.com/community/tutorials/python-multiprocessing-example)
 - [How to find out the number of CPUs using python](https://stackoverflow.com/questions/1006289/how-to-find-out-the-number-of-cpus-using-python)
 - [Python Thread Class | join() Method with Example](https://www.includehelp.com/python/thread-join-method-with-example.aspx)
-- [ChatGPT](https://chat.openai.com/chat)
